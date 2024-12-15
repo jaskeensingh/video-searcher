@@ -1,1 +1,1 @@
-# video-searcher
+# Generative AI and Computer Vision Video Searcher
